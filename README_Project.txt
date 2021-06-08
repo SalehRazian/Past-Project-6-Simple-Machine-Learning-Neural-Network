@@ -1,0 +1,1 @@
+This is repository contains a number of projects that I have worked on using Processing Software to study different mathematical properties and create a few art projects. I have also included some Python files to demostrate different properties.

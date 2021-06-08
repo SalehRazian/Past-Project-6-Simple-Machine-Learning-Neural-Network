@@ -1,0 +1,3 @@
+I have tried to self-study machine learning algorithms and Neural Network implementations. This file contains some example code of what I have created to gain a deeper undertanding of the concepts and apply them in a way or a form. I have utilized some online materials for this, namely "sentdex" resources.
+
+I have creatied an artistic demonstration of the neural network too which is mundain but it shows how the value of the neurons change as training data are fed to the algorithm iteratively. 
